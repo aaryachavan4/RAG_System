@@ -1,1 +1,2 @@
 # RAG_System
+THIS IS MY 1st SERIOUS PROJECT!
