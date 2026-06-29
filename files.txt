@@ -10,4 +10,5 @@ pdf plumber
 a. set the postgresql such that it can liek work with vectors
 psql -U postgres -c "CREATE EXTENSION IF NOT EXISTS vector;"
 
-b.
+b.TRUNCATE TABLE documents RESTART IDENTITY;
+to RESTART
