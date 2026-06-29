@@ -1,0 +1,13 @@
+installed the:
+
+fastapi all 
+psycopg2
+sentence-transformers
+postgresql
+pgvector
+pdf plumber
+
+a. set the postgresql such that it can liek work with vectors
+psql -U postgres -c "CREATE EXTENSION IF NOT EXISTS vector;"
+
+b.
